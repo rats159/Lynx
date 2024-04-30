@@ -1,4 +1,11 @@
 /*
+    Hi this is Lynx!
+    Author: rats159 (https://rats159.dev)
+
+    Leave this credit if you're cool.
+*/
+
+/*
 
    DOM STUFF!
 
